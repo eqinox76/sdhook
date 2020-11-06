@@ -3,7 +3,7 @@ package main
 import (
 	"time"
 
-	"github.com/kenshaw/sdhook"
+	"github.com/eqinox76/sdhook"
 	"github.com/sirupsen/logrus"
 )
 
