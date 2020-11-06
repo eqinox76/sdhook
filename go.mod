@@ -1,4 +1,4 @@
-module github.com/knq/sdhook
+module github.com/eqinox76/sdhook
 
 require (
 	cloud.google.com/go v0.38.0
