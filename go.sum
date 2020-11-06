@@ -32,10 +32,10 @@ github.com/hashicorp/golang-lru v0.5.0/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ
 github.com/hashicorp/golang-lru v0.5.1 h1:0hERBMJE1eitiLkihrMvRVBYAkpHzc/J3QdDN+dAcgU=
 github.com/hashicorp/golang-lru v0.5.1/go.mod h1:/m3WP610KZHVQ1SGc6re/UDhFvYD7pJ4Ao+sR/qLZy8=
 github.com/jstemmer/go-junit-report v0.0.0-20190106144839-af01ea7f8024/go.mod h1:6v2b51hI/fHJwM22ozAgKL4VKDeJcHhJFhtBdhmNjmU=
-github.com/knq/jwt v0.0.0-20180925223530-fc44a4704737 h1:1xIW/VaRuKqTia61AXVrIFt2wDeIgXyVmSFU6wX1cx4=
-github.com/knq/jwt v0.0.0-20180925223530-fc44a4704737/go.mod h1:H6bRgq8JMACag/WS+QyO3B00Hx9JZTF/zUHxNhzkxqo=
-github.com/knq/pemutil v0.0.0-20181215144041-fb6fad722528 h1:W50e/aaqE/OF4zTsWRfLtkHzX44jNgIz8w1rKNV0dfg=
-github.com/knq/pemutil v0.0.0-20181215144041-fb6fad722528/go.mod h1:2VjBu5gkjU1wG99pRhJ+zm/P4bHnjdRY0CIMP9Gvn7Q=
+github.com/kenshaw/jwt v0.2.0 h1:Eb+5TGxngvxx0tczM8Cxw4/thgYLKWRUPMgs6cX9BtU=
+github.com/kenshaw/jwt v0.2.0/go.mod h1:pWqUQxUO5L52pZbqQsjPRp5N/xqj2hlgqyckHupMstM=
+github.com/kenshaw/pemutil v0.0.0-20200927061650-336cb0a26b96 h1:rxtjxIcQv+M78rz/hwT/zdtvfqD7JYYgTKktxzYAoMk=
+github.com/kenshaw/pemutil v0.0.0-20200927061650-336cb0a26b96/go.mod h1:KDF39i6NCZ2UJYtdyVVQi8l+G5S3zgE26GzAjFiLmHQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1 h1:mweAR1A6xJ3oS2pRaGiHgQ4OO8tzTaLawm8vnODuwDk=
 github.com/konsorten/go-windows-terminal-sequences v1.0.1/go.mod h1:T0+1ngSBFLxvqU3pZ+m/2kptfBszLMUkC4ZK/EgS/cQ=
 github.com/konsorten/go-windows-terminal-sequences v1.0.2 h1:DB17ag19krx9CFsz4o3enTrPXyIXCl+2iCXH/aMAp9s=
